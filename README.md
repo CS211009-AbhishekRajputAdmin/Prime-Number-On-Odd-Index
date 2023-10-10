@@ -1,12 +1,12 @@
 # Title: Find the Maximum Prime Number at Odd Index Positions
 
 # Description:
-You are given an array of numbers, and your task is to write a program or function that finds and returns the index of the largest prime number occurring at odd index positions within the array. The prime number should be selected from all the prime numbers present in the array.
+You are given an array of numbers, and your task is to write a program or function that finds and returns the index of the largest prime number occurring at odd index positions within the array. The prime number should be selected from all the prime numbers present in the array. If the prime number is not found the print -1.
 
 Here are the specific requirements for your solution:
 
 ## 1. Input:
-   - You will be given an array of integers, where the length of the array is greater than or equal to 2.
+   - You will be given an array of integers, the array can be empty if the it is empty then print -1 .
 
 ## 2. Prime Number:
    - A prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself.
